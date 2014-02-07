@@ -1,0 +1,45 @@
+{
+  "name": "grunt-beez-confbuilder",
+  "description": "Build configuration files for beez project template.",
+  "version": "0.1.1",
+  "homepage": "https://github.com/fkei/grunt-beez-confbuilder",
+  "author": {
+    "name": "fkei",
+    "email": "kei.topaz@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fkei/grunt-beez-confbuilder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fkei/grunt-beez-confbuilder/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/fkei/grunt-beez-confbuilder/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "beez-confbuilder": "*"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt": "~0.4.2"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.2"
+  },
+  "keywords": [
+    "gruntplugin",
+    "beez",
+    "configuration",
+    "build"
+  ]
+}
