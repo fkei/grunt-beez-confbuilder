@@ -43,3 +43,7 @@ grunt.initConfig({
 ### Options
 
 @see [beez-confbuilder#command-line-help](https://github.com/fkei/beez-confbuilder#command-line-help)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fkei/grunt-beez-confbuilder/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
