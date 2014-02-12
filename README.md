@@ -29,6 +29,7 @@ grunt.initConfig({
     options: {
       srcdir: __dirname + '/example/conf.template',
       pjdir: __dirname + '/example/projectA',
+      pjconfname: 'conf', 
       env: 'local',
       indent: '        ',
       loglevel: 3,
